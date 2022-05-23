@@ -1,0 +1,22 @@
+{
+  "arr1": [{
+    "id": "11",
+    "num": 1,
+    "checkeds": false,
+    "img": "../../static/one.jpeg",
+    "much": "160.00",
+    "title": "伊芙丽毛领保暖羽绒服女冬季新款1",
+    "many": "428",
+    "xiaoliang": "s28"
+  }],
+  "arr2": [{
+    "id": "21",
+    "num": 1,
+    "checkeds": false,
+    "img": "../../static/ywo.jpeg",
+    "much": "680.00",
+    "title": "伊芙丽毛领保暖羽绒服女冬季新款1",
+    "many": "4288",
+    "xiaoliang": "128"
+  }]
+}
